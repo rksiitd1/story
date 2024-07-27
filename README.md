@@ -1,0 +1,2 @@
+# story
+An amazing strory
